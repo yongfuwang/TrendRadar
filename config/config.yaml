@@ -115,3 +115,12 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+      # === 财经投资类 ===
+  - id: "gelonghui"
+    name: "格隆汇"
+  - id: "xueqiu"
+    name: "雪球"
+  - id: "jin10"
+    name: "金十数据"
+  - id: "fastbull"
+    name: "快讯通"
