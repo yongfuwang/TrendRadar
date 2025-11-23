@@ -107,8 +107,6 @@ platforms:
     name: "财联社热门"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
   - id: "weibo"
     name: "微博"
   - id: "douyin"
@@ -118,8 +116,6 @@ platforms:
       # === 财经投资类 ===
   - id: "gelonghui"
     name: "格隆汇"
-  - id: "xueqiu"
-    name: "雪球"
   - id: "jin10"
     name: "金十数据"
   - id: "fastbull"
